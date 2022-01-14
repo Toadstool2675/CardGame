@@ -1,0 +1,6 @@
+name: CardGame
+version: '${version}'
+main: com.github.toadstool.cardgame.CardGame
+api-version: 1.17
+authors: [ Toadstool ]
+description: CardGame Plugin by. Toadstool
